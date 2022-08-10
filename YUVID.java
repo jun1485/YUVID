@@ -34,27 +34,6 @@ import javax.swing.JTextField;
 import javax.swing.event.MenuKeyEvent;
 import javax.swing.table.DefaultTableModel;
 
-/*
-Login_Panel : 로그인화면
-SignUp_Panel : 회원가입
-Find_ID_Panel : 아이디찾기
-panel4 : 비밀번호찾기
-panel5 : 본인확인 (비밀번호 재확인)
-panel6 : 메인화면
-panel7 : 회원정보수정 및 아이디 변경후 비밀번호변경
-panel8 : 접종예약
-panel9 : 예약확인 및 취소
-panel10 : 게시판
-panel11 : 
-panel12 : 병원리스트
-panel13 : 백신리스트
-panel14 : 
-panel15 : 
-panel16 : 
-panel17 :
-panel18 :
-*/
-
 class cn { // connect
 	static int userno = -1;
 	static boolean ismanage = false;
